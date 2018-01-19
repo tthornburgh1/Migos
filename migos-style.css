@@ -1,0 +1,14 @@
+.sidebar {
+  float: right;
+  font-size: 15px;
+  color: red;
+  border: 2px solid green;
+  margin: 2px;
+  background-color: yellow;
+}
+
+.images {
+  float: left;
+  padding-left: 5 px;
+  padding-top: 5px;
+}
