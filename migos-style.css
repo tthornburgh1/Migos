@@ -8,6 +8,7 @@
 }
 
 .images {
+  width: 400px;
   float: left;
   padding-left: 5 px;
   padding-top: 5px;
